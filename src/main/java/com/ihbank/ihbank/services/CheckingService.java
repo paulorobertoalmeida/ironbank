@@ -17,5 +17,4 @@ public class CheckingService {
         return checkingRepository.findAll();
     }
 
-
 }
